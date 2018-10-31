@@ -1,0 +1,7 @@
+numpy>=1.15.2
+tensorflow>=1.9
+eli5
+shap
+matplotlib
+pdpbox
+sklearn
