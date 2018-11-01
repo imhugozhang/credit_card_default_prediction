@@ -1,7 +1,9 @@
 # Defaults Prediction
-To predict if a person is going to do his credit card repayment the next month.
+To predict if a person is going to repay his credit card bill the next month.
 
 To analyse the data in order to gain insights.
+
+In case it is unable to open preview on GitHub, clone or download it, then open it locally.
 
 ![alt text](https://github.com/imhugozhang/defaults_prediction/blob/master/Capture1.JPG)
 ![alt text](https://github.com/imhugozhang/defaults_prediction/blob/master/Capture2.JPG)
