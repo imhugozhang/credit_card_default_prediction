@@ -5,6 +5,7 @@ To analyse the data in order to gain insights.
 
 In case it is unable to open preview on GitHub, clone or download it, then open it locally.
 
+#Snippets of data analyse result in the form of charts:
 ![alt text](https://github.com/imhugozhang/defaults_prediction/blob/master/Capture1.JPG)
 ![alt text](https://github.com/imhugozhang/defaults_prediction/blob/master/Capture2.JPG)
 ![alt text](https://github.com/imhugozhang/defaults_prediction/blob/master/Capture3.JPG)
